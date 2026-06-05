@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Long Task Bootstrap"
+  short_description: "Bootstrap project memory and long-task state."
+  default_prompt: "Bootstrap this project into a long-task workflow with project memory, state.sqlite, issues, checks, review, and closeout."
