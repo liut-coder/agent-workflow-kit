@@ -20,6 +20,8 @@ retrieve memory
 
 Use this skill before changing large, cross-cutting, or easy-to-lose-context work.
 
+Use this skill because long tasks need durable state outside the chat context: current objective, Git checkpoint, next bounded issue, verification status, and stale-context safeguards. Prefer it when losing context would cause duplicated work, unsafe edits, or old plans overriding current repository state.
+
 ## Resume Rules
 
 For short triggers such as `恢复项目`, `继续项目`, `续任务`, `LT恢复`, or `long-task恢复`:
